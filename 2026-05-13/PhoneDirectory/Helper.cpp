@@ -26,6 +26,8 @@ int Helper::showMenu() {
 	std::cout << "3. Mostrar datos" << std::endl;
 	std::cout << "4. Buscar persona por DNI" << std::endl;
 	std::cout << "5. Eliminar nro de celuar de una persona" << std::endl;
+	std::cout << "6. Eliminar persona y nros relacionados" << std::endl;
+	std::cout << "7. Buscar persona por nro de celular" << std::endl;
 	std::cout << "0. Salir" << std::endl << std::endl;
 	
 	std::cout << "Ingrese opcion: ";
